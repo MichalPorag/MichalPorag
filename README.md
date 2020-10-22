@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   display: gird; 
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   grid-auto-rows: 1fr;
-  gap: 10px;">
+  gap: 10px;
+  list-style: none">
   <li>
     <a href="https://github.com/MichalPorag/MichalPorag">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichalPorag&theme=midnight-purple" />
