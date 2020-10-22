@@ -16,11 +16,20 @@ Here are some ideas to get you started:
 -->
 
 ## 📈 GitHub Stats
-
-<a href="https://github.com/MichalPorag/MichalPorag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichalPorag&theme=midnight-purple" />
-</a>
-<a href="https://github.com/MichalPorag/MichalPorag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MichalPorag&show_icons=true&line_height=27&count_private=true&theme=midnight-purple" alt="Michal's GitHub Stats" />
-</a>
+<ul style="
+  display: gird; 
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-auto-rows: 1fr;
+  gap: 10px;">
+  <li>
+    <a href="https://github.com/MichalPorag/MichalPorag">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichalPorag&theme=midnight-purple" />
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/MichalPorag/MichalPorag">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=MichalPorag&show_icons=true&line_height=27&count_private=true&theme=midnight-purple" alt="Michal's GitHub Stats" />
+    </a>
+  </li>
+</ul>
 
