@@ -14,7 +14,7 @@ My name is Michal Porag and I'm a front end developer at Outbarin. You can find 
 Apart from coding, I also maintain a tech blog at [Medium](https://medium.com/@miporagi), speak in meetups and community leader at [Pull Request](https://www.facebook.com/groups/PullRequest) community.
 
 ## 📈 GitHub Stats
-<ul backgroundColor="red">
+<ul listStyle="none">
   <li>
     <a href="https://github.com/MichalPorag/MichalPorag">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichalPorag&hide=java&theme=midnight-purple" />
