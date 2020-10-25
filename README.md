@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <ul style="background-color: red;">
   <li>
     <a href="https://github.com/MichalPorag/MichalPorag">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichalPorag&theme=midnight-purple" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichalPorag&hide=java&theme=midnight-purple" />
     </a>
   </li>
   <li>
