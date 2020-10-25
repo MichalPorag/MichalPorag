@@ -22,7 +22,7 @@ Apart from coding, I also maintain a tech blog at [Medium](https://medium.com/@m
   </li>
   <li>
     <a href="https://github.com/MichalPorag/MichalPorag">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=MichalPorag&show_icons=true&line_height=27&count_private=true&theme=midnight-purple" alt="Michal's GitHub Stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=MichalPorag&show_icons=true&line_height=27&count_private=true&theme=midnight-purple&&line_height=27&" alt="Michal's GitHub Stats" />
     </a>
   </li>
 </ul>
