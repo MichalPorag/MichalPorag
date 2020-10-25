@@ -19,7 +19,7 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/FreamWork-React?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/FreamWork-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
 ## ✍ Blog & Writing
 Apart from coding, I also maintain a tech blog at [Medium](https://medium.com/@miporagi), speak in meetups and community leader at [Pull Request](https://www.facebook.com/groups/PullRequest) community.
