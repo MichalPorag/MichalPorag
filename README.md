@@ -11,7 +11,7 @@ My name is Michal Porag and I'm a front end developer at Outbarin. You can find 
 
 
 ## ✍ Blog & Writing
-Apart from coding, I also maintain a tech blog at [Medium](https://medium.com/@miporagi), speak in meetups and community leader at [Pull Request](https://www.facebook.com/groups/PullRequest) community.
+Apart from coding, I also maintain a tech blog at [Medium](https://michal-porag.medium.com/), speak in meetups and community leader at [Pull Request](https://www.facebook.com/groups/PullRequest) community.
 
 ## 📈 GitHub Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
