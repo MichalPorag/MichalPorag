@@ -1,8 +1,6 @@
 ### Hi there 👋
 My name is Michal Porag and I'm a front end developer at Outbarin. You can find me on [Twitter](https://twitter.com/MichalPorag), or on [LinkedIn](https://www.linkedin.com/in/michal-porag-9522b5142/).
 
-[](https://github.com/MichalPorag/store-image-for-readme/blob/main/Component%2045.png)
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
