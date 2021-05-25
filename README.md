@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Michal Porag and I'm a front end developer at Outbarin. You can find me on [Twitter](https://twitter.com/MichalPorag), or on [LinkedIn](https://www.linkedin.com/in/michal-porag-9522b5142/).
+My name is Michal Porag and I'm a front end developer at Outbrain. You can find me on [Twitter](https://twitter.com/MichalPorag), or on [LinkedIn](https://www.linkedin.com/in/michal-porag-9522b5142/).
 
 <img width="100%" align='right' src="https://github.com/MichalPorag/MichalPorag/blob/main/Component%2045.png">
 
